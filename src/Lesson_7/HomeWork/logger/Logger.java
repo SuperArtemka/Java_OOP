@@ -26,7 +26,7 @@ public class Logger {
         return logger(s);
     }
 
-    public void info() {
+    public void info(String найдена_разность_двух_комплексных_чисел) {
     }
 }
 
